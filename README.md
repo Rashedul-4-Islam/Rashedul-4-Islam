@@ -4,7 +4,7 @@
 
 I'm Rashedul Islam, currently studying BSc in Chemistry at the National University of Bangladesh. I'm a front-end web developer.
 
-Skills: JAVASCRIPT / REACT / JS / HTML / CSS / NODE JS / MONGO DB / BOOTSTRAP / 
+Skills: JAVASCRIPT / REACT / HTML / CSS / NODE JS / mongoDB / BOOTSTRAP / Express JS / Material UI / Tailwind CSS
 
 - 🌱 I’m currently learning Redux , Next JS 
 - 👯 I’m looking to collaborate on Front end web development projects. 
