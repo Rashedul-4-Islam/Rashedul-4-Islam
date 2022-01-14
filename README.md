@@ -1,5 +1,5 @@
 ![I am web developer](https://i.ibb.co/WtQC5tn/Web-Developer-1.png)
-### Hi there 👋, my name is Rashedul Islam
+### Hi there 👋, I am Rashedul Islam
 #### I am web developer
 
 I'm Rashedul Islam, currently studying BSc in Chemistry at the National University of Bangladesh. I'm a front-end web developer.
