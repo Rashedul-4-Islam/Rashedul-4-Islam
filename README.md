@@ -7,6 +7,7 @@ I'm Rashedul Islam, currently studying BSc in Chemistry at the National Universi
 Skills: JAVASCRIPT / REACT / HTML / CSS / NODE JS / mongoDB / BOOTSTRAP / Express JS / Material UI / Tailwind CSS
 
 - 🌱 I’m currently learning Redux , Next JS 
+- 👀  I’m interested in learning new technology
 - 👯 I’m looking to collaborate on Front end web development projects. 
 
 
