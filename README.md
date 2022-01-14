@@ -14,7 +14,6 @@ Skills: JAVASCRIPT / REACT / HTML / CSS / NODE JS / mongoDB / BOOTSTRAP / Expres
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rashedul-4-Islam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rashedul-islam14/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rashedul.islam444)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rashedul-islam.me/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashedul-4-Islam)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rashedul-4-Islam&show_icons=true)  
+ 
 
 
